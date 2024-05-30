@@ -10,7 +10,7 @@
 
 
 
-Project Name : ZUSYCO - MD
+Project Name : Cyber X Bot
 Creator : @darkmakerofc , @mr-nima-x 
 
 */
@@ -50,11 +50,11 @@ module.exports = {
   READ : {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : true,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '🔮♥',
   AUTO_BGM : true,
   BGM : {
