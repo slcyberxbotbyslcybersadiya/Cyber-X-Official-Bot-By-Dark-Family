@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "⚙️𝐌𝐫.𝐒𝐥 𝕮𝖞𝖇𝖊𝖗 𝐒𝐚𝐝𝐢𝐲𝐚 𝖃 𝕭𝖔𝖙🤖💚",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/N6Wb6mZ/ne.webp',
+    ALIVE:   'https://telegra.ph/file/f5a4a462ad70a999aacfa.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -33,15 +33,15 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "only_groups😜",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy,sex,sexy,xxxxxxxxx,porn,dig,vagina,boobs,leak',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
@@ -74,7 +74,7 @@ module.exports = {
   },
   AUTO_STICKER : true,
   STICKERS : {
-    "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
+    "pit" : "https://telegra.ph/file/7bf4aebcd7d4a60b95c83.jpg",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
