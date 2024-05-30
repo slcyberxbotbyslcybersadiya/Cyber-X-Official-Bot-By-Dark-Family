@@ -76,7 +76,7 @@ module.exports = {
   STICKERS : {
     "pit" : "https://telegra.ph/file/7bf4aebcd7d4a60b95c83.jpg",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
-    "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
+    "ne" : "https://i.ibb.co/N6Wb6mZ/STK-20240510-WA0076.webp",
   },
   LOAD_ANIMATION : true,
  
