@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94704221020,94726767426",
   OWNER_NAME: "👨‍💻⚙️𝐌𝐫.𝐒𝐥 𝐂𝐲𝐛𝐞𝐫 𝐒𝐚𝐝𝐢𝐲𝐚😘♥️🌈",
   BOT_NAME : "👨‍💻⚙️𝐌𝐫.𝐒𝐥 𝕮𝖞𝖇𝖊𝖗 𝐒𝐚𝐝𝐢𝐲𝐚 𝖃 𝕭𝖔𝖙😘♥️🌈",
-  ZUSYCO_FILE : "Cyber X-QR",
+  ZUSYCO_FILE : "Cyber-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "groups and inbox",
+  WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
