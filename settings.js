@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "⚙️𝐌𝐫.𝐒𝐥 𝕮𝖞𝖇𝖊𝖗 𝐒𝐚𝐝𝐢𝐲𝐚 𝖃 𝕭𝖔𝖙🤖💚",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/dafd87ab506bbb51bf2ea.jpg',
+    ALIVE: 'https://telegra.ph/file/238599a5ca86711902375.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
